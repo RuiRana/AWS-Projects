@@ -31,7 +31,7 @@ More projects to come as I progress through the training!
 
 ## 📫 Contact
 
-Feel free to connect with me on [LinkedIn](#) or reach out for collaboration.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ruhailrana/) or reach out for collaboration.
 
 ---
 # AWS-Projects
