@@ -84,11 +84,11 @@ This repository showcases hands-on AWS projects I’ve completed as part of my s
 More projects will be added as I progress through the AWS certification track.
 
 
-## 🚀 Projects So Far
+## 📂 Projects So Far
 
-- [`S3_StaticWebsite.md`](./S3_StaticWebsite.md) – Deploying a static website using Amazon S3  
-- [`Lambda_HelloWorld.md`](./Lambda_HelloWorld.md) – A simple serverless function using AWS Lambda
-- [`CloudFormation_S3.md`](./CloudFormation_S3.md) – Infrastructure as Code using AWS CloudFormation to create an S3 bucket
+- [Lambda Hello World](./lambda-helloworld/Lambda_HelloWorld.md)
+- [S3 Static Website](./s3-static-site/S3_StaticWebsite.md)
+- [CloudFormation S3 Bucket](./cloudformation-s3/CloudFormation_S3.md)
 
 More projects to come as I progress through the training!
 
