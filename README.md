@@ -91,11 +91,35 @@ More projects will be added as I progress through the AWS certification track.
 
 More projects to come as I progress through the training!
 
+## 🤖 AWS AI & Machine Learning Services Covered
+
+As part of the AI/ML segment of my AWS training, I’ve explored the following managed services for machine learning, language processing, personalization, and serverless automation.
+
+### 🧠 Core Machine Learning Services
+- **Amazon SageMaker** – For building, training, and deploying machine learning models
+- **Amazon Forecast** – Time-series forecasting for demand and trends
+- **Amazon Personalize** – Real-time recommendation systems
+- **Amazon Rekognition** – Image and video analysis, including facial detection
+
+### 🗣️ Language & Text Services
+- **Amazon Lex** – Build conversational AI/chatbots
+- **Amazon Polly** – Text-to-speech generation
+- **Amazon Comprehend** – Natural language processing (sentiment, entity recognition, etc.)
+- **Amazon Transcribe** – Speech-to-text transcription
+- **Amazon Translate** – Real-time translation of text
+
+### 🧾 Document & Knowledge Extraction
+- **Amazon Textract** – Intelligent document processing
+- **Amazon Kendra** – Intelligent enterprise search
+
+### 🧩 Serverless & Integration
+- **AWS Lambda** – Running ML workflows serverlessly
+- **Amazon Connect & Contact Lens** – Voice-based CX automation with AI/ML analytics
+
+These services were introduced through structured learning and use-case discussions, including how they power real-world applications like chatbots, intelligent search, personalised UX, and automated transcription.
+
 ## 📫 Contact
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ruhailrana/) or reach out for collaboration.
 
 ---
-# AWS-Projects
-AWS Project Experiment 
-Projects on AWS
