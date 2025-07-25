@@ -59,6 +59,7 @@ This project demonstrates how to deploy a **3-tier web application architecture*
 
 
 
+![Architecture Diagram](architecture-diagram.png)
 
 
 
