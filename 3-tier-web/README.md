@@ -52,12 +52,10 @@ This project demonstrates how to deploy a **3-tier web application architecture*
 ---
 
 ## 📂 Files
-- `web-tier-userdata.sh`: Web server config
-- `app-tier-userdata.sh`: App logic config
-- `rds-setup-notes.md`: Setup and test DB connection
-- *(Optional)* CloudFormation template and architecture diagram
-
-This architecture diagram illustrates a classic 3-tier web application on AWS. It includes a public-facing Web Tier (EC2), an Application Tier (EC2), and a Database Tier (RDS) hosted in a private subnet. The design follows best practices for network isolation, security group configuration, and resource segmentation across subnets within a VPC.
+- [web-tier-userdata.sh](./web-tier-userdata.sh)
+- [app-tier-userdata.sh](./app-tier-userdata.sh)
+- [rds-setup-notes.md](./rds-setup-notes.md)
+- [architecture-diagram.png](./architecture-diagram.png)
 
 
 
