@@ -1,4 +1,4 @@
-T# Amazon Bedrock – Generative AI Layer
+# Amazon Bedrock – Generative AI Layer
 
 This folder documents how Amazon Bedrock is used as the Generative AI interface within the AWS AI system.
 
