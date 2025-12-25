@@ -23,3 +23,13 @@ This layered approach ensures that Generative AI enhances understanding rather t
 
 This design prioritises trust, explainability, and responsible AI usage.
 This folder describes the end-to-end architecture and design decisions for the AWS AI system.
+## High-Level AWS AI Architecture
+
+This diagram shows a Retrieval-Augmented Generation (RAG) architecture
+using AWS-native AI services.
+
+- Amazon Bedrock provides the generative AI interface
+- Curated data is stored in Amazon S3 / Vector databases
+- Amazon SageMaker is used for ML-based decisions and scoring
+
+![High-Level Architecture](high-level-architecture.png)
